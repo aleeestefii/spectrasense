@@ -1,0 +1,6 @@
+[submodule "spectrasense_backend"]
+	path = spectrasense_backend
+	url = https://github.com/aleeestefii/spectrasense_backend.git
+[submodule "spectrasense_frontend"]
+	path = spectrasense_frontend
+	url = https://github.com/aleeestefii/spectrasense_frontend.git
